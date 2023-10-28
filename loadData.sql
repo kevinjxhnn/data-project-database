@@ -44,5 +44,5 @@ CREATE TABLE if not exists deliveries (
 );
 
 
-COPY "deliveries" from '/Users/kevinjxhn/Downloads/archive/deliveries.csv' delimiter ',' CSV HEADER;
-COPY "matches" from '/Users/kevinjxhn/Downloads/archive/matches.csv' delimiter ',' CSV HEADER;
+COPY "deliveries" from 'data-project-database/tables/deliveries.csv' delimiter ',' CSV HEADER;
+COPY "matches" from 'data-project-database/tables/matches.csv' delimiter ',' CSV HEADER;
