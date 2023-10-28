@@ -16,9 +16,6 @@ This repository contains SQL scripts to set up and query an IPL (Indian Premier 
 
    - The "matches" and "deliveries" tables can be found in the `tables` folder within the project.
 
-4. **Results:**
-
-   - The output of the SQL queries can be found in the `results` directory.
 
 ## Requirements
 
